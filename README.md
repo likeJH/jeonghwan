@@ -1,4 +1,4 @@
-## Resume
+## Resume https://likeJH.github.io/jeonghwan/
 
 Likelion에서 주관한 Frontend 스쿨에 참여하여 교육 수강 중입니다.
 
